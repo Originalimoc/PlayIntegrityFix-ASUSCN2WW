@@ -1,0 +1,41 @@
+# RootBeer, Microsoft
+ro.build.tags=release-keys
+
+# Samsung
+ro.boot.warranty_bit=0
+ro.vendor.boot.warranty_bit=0
+ro.vendor.warranty_bit=0
+ro.warranty_bit=0
+
+# OnePlus
+ro.is_ever_orange=0
+
+# Other
+ro.build.type=user
+ro.debuggable=0
+ro.secure=1
+
+ro.boot.vbmeta.device_state=locked
+ro.boot.verifiedbootstate=green
+ro.boot.flash.locked=1
+ro.boot.image.valid=Y
+vendor.asus.image.valid=Y
+ro.boot.country_code=WW
+ro.boot.product.override=WW_AI2201
+ro.build.description=WW_AI2201-user 13 TKQ1.220807.001 33.0610.2810.157-0 release-keys
+ro.build.fingerprint=asus/WW_AI2201/ASUS_AI2201:13/TKQ1.220807.001/33.0610.2810.157-0:user/release-keys
+ro.odm.build.fingerprint=asus/WW_AI2201/ASUS_AI2201:13/TKQ1.220807.001/33.0610.2810.157-0:user/release-keys
+ro.product.name=WW_AI2201
+ro.product.odm.name=WW_AI2201
+ro.product.vendor.name=WW_AI2201
+ro.product.vendor_dlkm.name=WW_AI2201
+ro.vendor.build.fingerprint=asus/WW_AI2201/ASUS_AI2201:13/TKQ1.220807.001/33.0610.2810.157-0:user/release-keys
+ro.vendor_dlkm.build.fingerprint=asus/WW_AI2201/ASUS_AI2201:13/TKQ1.220807.001/33.0610.2810.157-0:user/release-keys
+ro.product.bootimage.model=ASUS_AI2201_F
+ro.product.model=ASUS_AI2201_F
+ro.product.odm.model=ASUS_AI2201_F
+ro.product.product.model=ASUS_AI2201_F
+ro.product.system.model=ASUS_AI2201_F
+ro.product.system_ext.model=ASUS_AI2201_F
+ro.product.vendor.model=ASUS_AI2201_F
+ro.product.vendor_dlkm.model=ASUS_AI2201_F
